@@ -1,0 +1,32 @@
+Ex:  Made with ./txtPlot -i sine -nx 5 -ny 5 -prec 3
+Change the screen resolution by compiling the code with different values of WIDTH and HEIGHT
+
+r|         *******
+ |       ***     ***
+ |      **         **
+ |     **           **
+ |    **             **
+ |    *               *
+q|   **               **
+ |  **                 **
+ |  *                   *
+ | **                   **
+ |**                     **
+ |*                       *
+p|*                        *                       *
+ |                         **                     **
+ |                          **                   **
+ |                           *                   *
+ |                           **                 **
+ |                            **               **
+o|                             *               *
+ |                             **             **
+ |                              **           **
+ |                               **         **
+ |                                ***     ***
+n|                                  *******
+----------------------------------------------------
+ |a           b            c           d           e
+
+X AXIS: a: 0.000 || b: 1.571 || c: 3.142 || d: 4.712 || e: 6.283 ||
+Y AXIS: n:-1.000 || o:-0.500 || p: 0.000 || q: 0.500 || r: 1.000 ||
