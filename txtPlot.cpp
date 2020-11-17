@@ -42,8 +42,8 @@ numbers will cause unknown issues.  Calling the -lx or -ly CLAs without two numb
 
 //Default Params that you may change:
 ///Screen Size
-const int WIDTH = 90;
-const int HEIGHT = 28;
+const int WIDTH = 140;
+const int HEIGHT = 30;
 ///Number of labels to print.  Choose between 2 and 13
 int numXKeys = 9;
 int numYKeys = 9;
